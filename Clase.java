@@ -12,4 +12,7 @@ public class Clase {
 	public static String MensajePersonalizado(String nombre) {
 		return "Hola " + nombre;
 	}
+	public static String Mensaje(String nombre) {
+		return "Hola " + nombre + " , mensaje desde la sobrecarga";
+	}
 }
