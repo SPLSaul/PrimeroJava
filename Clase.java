@@ -13,6 +13,6 @@ public class Clase {
 		return "Hola " + nombre;
 	}
 	public static String Mensaje(String nombre) {
-		return "Hola " + nombre + " , mensaje desde la sobrecarga";
+		return "Hola " + nombre + " , mensaje desde la sobrecarga con Github";
 	}
 }
